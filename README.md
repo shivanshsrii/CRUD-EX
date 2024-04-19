@@ -7,7 +7,7 @@ Basic CRUD (Create, Read, Update, Delete) in ASP.NET MVC Using C# and Entity Fra
 
 # Update-Method
 
-![readme](ReadME-Img/Deleting-a-record-Copy.png)
+![readme](ReadME-Img/Update-a-record1.png)
 
 
 
